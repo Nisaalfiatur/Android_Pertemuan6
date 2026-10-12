@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">pertemuan6</string>
+    <string name="action_search">Search</string>
+    <string name="action_share">Bagikan</string>
+    <string name="action_folder">Folder</string>
+    <string name="action_about">About App</string>
+    <string name="action_setting">Settings</string>
+    <string name="action_feedback">Feedback</string>
+    <string name="action_help">Help</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="tv_context_hint">Klik di sini untuk Context Menu</string>
+    <string name="quote_text">"Kesepian lebih menyakitkan daripada terluka"</string>
+    <string name="quote_author">- Monkey D Luffy -</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_download">Download</string>
+    <string name="btn_action">Action</string>
+    <string name="btn_popup">Buka Popup Menu</string>
+    <string name="action_popup">Popup Menu</string>
+    <string name="header_context">Pilih Aksi</string>
+</resources>
